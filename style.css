@@ -1,0 +1,17 @@
+body {
+    background-color: #d2ff4d;
+}
+
+a{
+	color:blue;
+}
+
+h1 {
+    text-align: center;
+	text-shadow: 1px 1px blue;
+}
+
+h5{
+	color: #d2ff4d;
+	font-size: .1%;
+}
