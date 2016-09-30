@@ -1,8 +1,8 @@
 body{
 	color:orange;
-	background-color: lightgreen;
+	background-color: blue;
 	text-align: center;
-	text-shadow: 1px 1px lightgreen;
+	text-shadow: 2px 2px lightgreen;
 }
 .column {
     -webkit-columns: 100px 2; /* Chrome, Safari, Opera */
