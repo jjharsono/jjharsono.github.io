@@ -3,6 +3,7 @@ body {
 }
 
 a{
+	text-shadow: 1px 1px red;
 	color:orange;
 }
 
@@ -18,4 +19,5 @@ h5{
 }
 p{
 	color:orange;
+	text-shadow: 1px 1px red;
 }
